@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Hubballi', cursive;
+
+
+}
+
+
+nav	{
+	background-color: #B7999C;
+	padding: 2.5rem;
+	font-size: 1.8rem;
+	color: white;
+	text-align: right;
+	padding-right: 10rem;
+
+}
+nav .nav {
+
+	display: inline;
+	margin: 0.5rem;
+}
+nav a{
+	text-decoration: none;
+	color: white;
+}
+
+#intro {
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 2rem;
+	padding-bottom: 5rem;
+	text-align: center;
+	font-size: 2rem;
+	background-color: #DFE0E2;
+}
+#intro button {
+	padding: 1rem;
+	margin-top: 50px;
+	font-size: 1.5rem;
+	border-radius: 50px;
+	background-color: pink;
+
+}
+
+#intro button:hover {
+	background-color:  #94C5CC; 
+}
+.header {
+	text-align: center;
+}
+
+#best-seller .header {
+	margin-top: 1rem;
+	font-size:  2rem;
+
+}
