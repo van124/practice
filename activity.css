@@ -15,6 +15,9 @@ nav	{
 	color: white;
 	text-align: right;
 	padding-right: 10rem;
+	display: flex;
+	justify-content: space-between;
+	padding: 8px;
 
 }
 nav .nav {
@@ -52,8 +55,3 @@ nav a{
 	text-align: center;
 }
 
-#best-seller .header {
-	margin-top: 1rem;
-	font-size:  2rem;
-
-}
